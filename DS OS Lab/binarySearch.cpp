@@ -1,3 +1,6 @@
+// MIHIR OJHA (20205097)
+// ECE - B
+
 #include <bits/stdc++.h>
 
 using namespace std;
